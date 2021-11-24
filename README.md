@@ -22,3 +22,7 @@ to be updated easily and in real-time.
 
 For now, since it is just research, we can just understand which metrics are important to look at to streamline that application development.
 The most efficent and scaleable solution can be implemented much later after a lot of work.
+
+## How to Use
+Make sure to set your twitter API keys as environment variables. Let your public key be T_API_KEY and your private key be T_API_SEC.
+Then, simply cd into src and run python3 main.py.
